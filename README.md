@@ -4,7 +4,9 @@ In order for marketers to launch a targeted marketing compaign,in this project w
 ### Steps:
 - 1- Data wrangling
 - 2- Exploratory Data Analysis
-![](Image/corr.png)
+![](Image/corr1.png)
+###### dealing with outliers:
+![](Image/boxplot.png)
 - 3- Data visulation using Seaborn and matplotlib
 - 4- Kmeans: has a linear time complexity O(n) as opposed to hierarchical which has a quadratic complexity - O(n^2)!,there was a time issue with Agglomerative Clustering compared to Kmeans
 ###### elbow method :
@@ -17,9 +19,11 @@ KDE plots used for visualizing the probability density of different values in a 
 - 6- Agglomerative Clustering
 ###### Silhouette score
 ![](Image/silhouette.png)
+##### PCA for agglomerative clustering
+![](Image/pca2.png)
 - 7- Autoencoders
 work well with if there's correlations between input data 
 for encoder and decoder we'll work with Sigmoid function as our activation function = (Weights x input +bias signal)
 ###### PCA after Autoencoders
-![](Image/pca_autoen.png)
+![](Image/pca3.png)
 
