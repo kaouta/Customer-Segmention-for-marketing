@@ -2,11 +2,11 @@
 Marketing is crucial for the growth and sustainability of any business.
 In order for marketers to launch a targeted marketing compaign,in this project we will cluster the customers into categories based on their behaviors
 ### Steps:
--1 Data wrangling
--2 Exploratory Data Analysis
+- 1 Data wrangling
+- 2 Exploratory Data Analysis
 ![](Image/corr.png)
--3 Data visulation using Seaborn and matplotlib
--4 Kmeans
+- 3 Data visulation using Seaborn and matplotlib
+- 4 Kmeans
 ##### Why did I use k-means?
 K-MEANS gives disjoint sets 
 * I wanted each customer to belong to one and only one segment!
