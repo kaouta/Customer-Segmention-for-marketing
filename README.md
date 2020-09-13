@@ -21,6 +21,6 @@ KDE plots used for visualizing the probability density of different values in a 
 - 7 Autoencoders
 work well with if there's correlations between input data 
 for encoder and decoder we'll work with Sigmoid function as our activation function = (Weights x input +bias signal)
-* PCA after Autoencoders
+###### PCA after Autoencoders
 ![](Image/pca_autoen.png)
 
