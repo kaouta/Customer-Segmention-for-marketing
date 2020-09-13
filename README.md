@@ -6,8 +6,7 @@ In order for marketers to launch a targeted marketing compaign,in this project w
 - 2 Exploratory Data Analysis
 ![](Image/corr.png)
 - 3 Data visulation using Seaborn and matplotlib
-- 4 Kmeans
- K-means has a linear time complexity O(n) as opposed to hierarchical which has a quadratic complexity - O(n^2)!,there was a time issue with Agglomerative Clustering than with Kmeans
+- 4 Kmeans: has a linear time complexity O(n) as opposed to hierarchical which has a quadratic complexity - O(n^2)!,there was a time issue with Agglomerative Clustering compared to Kmeans
 ###### elbow method :
 It is a heuristic method of interpretation and validation of consistency within cluster analysis designed to help find the appropriate number of clusters in a dataset by ploting within cluster sum of squares against number of clusters,the 'elbow' on the arm will be my best K (number of clusters)
 KDE plots used for visualizing the probability density of different values in a continuous variable
